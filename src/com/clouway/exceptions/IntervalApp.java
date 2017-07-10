@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 /**
  * @author David Kostov (david.kostov.cw@gmail.com)
  */
-public class App {
+public class IntervalApp {
 
     public static void main(String[] args) {
 
@@ -32,6 +32,7 @@ public class App {
             }
 
         }
+
 
     }
 
